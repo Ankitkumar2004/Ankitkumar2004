@@ -19,6 +19,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitkumar2027/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/AnkitKu46616757)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:singhankitkumar560@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/singhankitkumar560)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ankitkumar_27/)
 [![Profile Views](https://komarev.com/ghpvc/?username=AnkitKumar2004&style=flat-square&color=38bdf8&label=Profile+Views)](https://github.com/AnkitKumar2004)
 
 </div>
@@ -89,4 +91,3 @@ DevSecOps                     ██████░░░░  65%
 ```
 
 ---
-
